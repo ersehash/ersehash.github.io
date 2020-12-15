@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0 group-title="Romania",TVR FHD RO
+#EXTGRP:Romania
+https://cdn.sha-256.org/1011683739/UT56IQPOrY/99836054
+#EXTINF:0 group-title="Romania",RO: TVR FHD
+#EXTGRP:Romania
+https://cdn.sha-256.org/1011683739/UT56IQPOrY/6665751
+#EXTINF:0 group-title="Romania",RO: TVR International
+#EXTGRP:Romania
+https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669831
+#EXTINF:0 group-title="Romania",RO: TVR 2 HD
+#EXTGRP:Romania
+https://cdn.sha-256.org/1011683739/UT56IQPOrY/6662220
+#EXTINF:0 group-title="Romania",RO: TVR 3 HD
+#EXTGRP:Romania
+https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669833
 #EXTINF:0 group-title="Romania",Antena 3 FHD RO
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/99816719
@@ -86,9 +101,6 @@ https://cdn.sha-256.org/1011683739/UT56IQPOrY/99834534
 #EXTINF:0 group-title="Romania",ZUTV FHD RO
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/99836045
-#EXTINF:0 group-title="Romania",TVR FHD RO
-#EXTGRP:Romania
-https://cdn.sha-256.org/1011683739/UT56IQPOrY/99836054
 #EXTINF:0 group-title="Romania",TNT RO
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/99836065
@@ -341,9 +353,6 @@ https://cdn.sha-256.org/1011683739/UT56IQPOrY/99859425
 #EXTINF:0 group-title="Romania",RO: UTV FHD
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6662219
-#EXTINF:0 group-title="Romania",RO: TVR 2 HD
-#EXTGRP:Romania
-https://cdn.sha-256.org/1011683739/UT56IQPOrY/6662220
 #EXTINF:0 group-title="Romania",RO: National TV
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6662223
@@ -377,21 +386,12 @@ https://cdn.sha-256.org/1011683739/UT56IQPOrY/6664227
 #EXTINF:0 group-title="Romania",RO: Paramount Channel
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6665744
-#EXTINF:0 group-title="Romania",RO: TVR FHD
-#EXTGRP:Romania
-https://cdn.sha-256.org/1011683739/UT56IQPOrY/6665751
 #EXTINF:0 group-title="Romania",RO: AXN Black HD
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6666157
 #EXTINF:0 group-title="Romania",RO: ZU TV FHD
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669829
-#EXTINF:0 group-title="Romania",RO: TVR International
-#EXTGRP:Romania
-https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669831
-#EXTINF:0 group-title="Romania",RO: TVR 3 HD
-#EXTGRP:Romania
-https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669833
 #EXTINF:0 group-title="Romania",RO: Travel Channel HD
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669835
