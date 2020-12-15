@@ -1,17 +1,14 @@
 #EXTM3U
-#EXTINF:0 group-title="Romania",TVR FHD RO
-#EXTGRP:Romania
-https://cdn.sha-256.org/1011683739/UT56IQPOrY/99836054
-#EXTINF:0 group-title="Romania",RO: TVR FHD
+#EXTINF:0 group-title="Romania" tvg-id="tvr1.ro" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/048f688138285836d539186a0a9b4de6.png" ,TVR 1
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6665751
-#EXTINF:0 group-title="Romania",RO: TVR International
+#EXTINF:0 group-title="Romania" tvg-id="tvrinternational.ro" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d0eec5d2cdfe502fb612e5253e03c27e.png" ,TVR International
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669831
-#EXTINF:0 group-title="Romania",RO: TVR 2 HD
+#EXTINF:0 group-title="Romania" tvg-id="tvr2.ro" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e11bb7478c970a15e1d69b21d1471fa3.png" ,TVR 2
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6662220
-#EXTINF:0 group-title="Romania",RO: TVR 3 HD
+#EXTINF:0 group-title="Romania" tvg-id="tvr3.ro" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a6c745f9cc920f957c25421c836ec000.png" ,TVR 3
 #EXTGRP:Romania
 https://cdn.sha-256.org/1011683739/UT56IQPOrY/6669833
 #EXTINF:0 group-title="Romania",Antena 3 FHD RO
